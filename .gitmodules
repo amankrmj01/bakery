@@ -1,0 +1,32 @@
+[submodule "bakery_api_gateway"]
+	path = bakery_api_gateway
+	url = https://github.com/amankrmj01/bakery_api_gateway.git
+	branch = main
+[submodule "bakery_auth_service"]
+	path = bakery_auth_service
+	url = https://github.com/amankrmj01/bakery_auth_service.git
+	branch = main
+[submodule "bakery_cart_service"]
+	path = bakery_cart_service
+	url = https://github.com/amankrmj01/bakery_cart_service.git
+	branch = main
+[submodule "bakery_eureka_server"]
+	path = bakery_eureka_server
+	url = https://github.com/amankrmj01/bakery_eureka_server.git
+	branch = main
+[submodule "bakery_notification_service"]
+	path = bakery_notification_service
+	url = https://github.com/amankrmj01/bakery_notification_service.git
+	branch = main
+[submodule "bakery_order_service"]
+	path = bakery_order_service
+	url = https://github.com/amankrmj01/bakery_order_service.git
+	branch = main
+[submodule "bakery_payment_service"]
+	path = bakery_payment_service
+	url = https://github.com/amankrmj01/bakery_payment_service.git
+	branch = main
+[submodule "bakery_product_service"]
+	path = bakery_product_service
+	url = https://github.com/amankrmj01/bakery_product_service.git
+	branch = main
